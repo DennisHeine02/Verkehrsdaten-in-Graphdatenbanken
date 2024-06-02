@@ -1,0 +1,63 @@
+Einzelne Zählungen:
+------------------
+agency.txt
+------------------
+gtfs-nwl-20231017_agency.txt: 45 Zeilen
+GTFS_VRS_mit_SPNV_agency.txt: 27 Zeilen
+GTFS-2_agency.txt: 34 Zeilen
+GTFS_agency.txt: 420 Zeilen
+20231030_fahrplaene_gesamtdeutschland_gtfs_agency.txt: 1107 Zeilen
+VMT_GTFS_agency.txt: 37 Zeilen
+bodo_agency.txt: 19 Zeilen
+2021-01-nvv-rt-tram-bus_agency.txt: 3 Zeilen
+------------------
+stop_times.txt
+------------------
+gtfs-nwl-20231017_stop_times.txt: 1824734 Zeilen
+GTFS_VRS_mit_SPNV_stop_times.txt: 2908699 Zeilen
+GTFS-2_stop_times.txt: 5881736 Zeilen
+GTFS_stop_times.txt: 30592069 Zeilen
+20231030_fahrplaene_gesamtdeutschland_gtfs_stop_times.txt: 34923504 Zeilen
+VMT_GTFS_stop_times.txt: 1671908 Zeilen
+bodo_stop_times.txt: 133554 Zeilen
+2021-01-nvv-rt-tram-bus_stop_times.txt: 679688 Zeilen
+------------------
+trips.txt
+------------------
+gtfs-nwl-20231017_trips.txt: 79515 Zeilen
+GTFS_VRS_mit_SPNV_trips.txt: 130306 Zeilen
+GTFS-2_trips.txt: 250017 Zeilen
+GTFS_trips.txt: 1486980 Zeilen
+20231030_fahrplaene_gesamtdeutschland_gtfs_trips.txt: 1728930 Zeilen
+VMT_GTFS_trips.txt: 122176 Zeilen
+bodo_trips.txt: 6301 Zeilen
+2021-01-nvv-rt-tram-bus_trips.txt: 37058 Zeilen
+------------------
+stops.txt
+------------------
+gtfs-nwl-20231017_stops.txt: 40859 Zeilen
+GTFS_VRS_mit_SPNV_stops.txt: 7010 Zeilen
+GTFS-2_stops.txt: 41367 Zeilen
+GTFS_stops.txt: 668337 Zeilen
+20231030_fahrplaene_gesamtdeutschland_gtfs_stops.txt: 529158 Zeilen
+VMT_GTFS_stops.txt: 11789 Zeilen
+bodo_stops.txt: 2104 Zeilen
+2021-01-nvv-rt-tram-bus_stops.txt: 7616 Zeilen
+------------------
+routes.txt
+------------------
+gtfs-nwl-20231017_routes.txt: 2152 Zeilen
+GTFS_VRS_mit_SPNV_routes.txt: 625 Zeilen
+GTFS-2_routes.txt: 1274 Zeilen
+GTFS_routes.txt: 24268 Zeilen
+20231030_fahrplaene_gesamtdeutschland_gtfs_routes.txt: 27382 Zeilen
+VMT_GTFS_routes.txt: 860 Zeilen
+bodo_routes.txt: 93 Zeilen
+2021-01-nvv-rt-tram-bus_routes.txt: 404 Zeilen
+
+Gesamte Zählungen:
+agency.txt: 1692 Zeilen
+stop_times.txt: 78615892 Zeilen
+trips.txt: 3841283 Zeilen
+stops.txt: 1308240 Zeilen
+routes.txt: 57058 Zeilen
